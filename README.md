@@ -1,4 +1,4 @@
-# Online Healthcare Management System - Review 2
+# Online Healthcare Management System
 
 ## 1. Overview
 A Java web-based system that allows:
@@ -13,7 +13,7 @@ A Java web-based system that allows:
 - HTML, CSS, JavaScript (client-side validation)
 - JUnit (for DAO testing)
 
-## 3. Core Features Implemented in Review-2
+## 3. Core Features Implemented
 - Full flow: Register → Login → Dashboard → Book Appointment → View/Cancel
 - Data validation:
   - Client-side: JavaScript form validation (password checks, date checks)
@@ -32,14 +32,28 @@ A Java web-based system that allows:
 - Update DB username/password in `DBUtil.java`.
 
 ## 5. How to Run
-1. Import project into Eclipse as Dynamic Web Project (or similar).
-2. Add MySQL JDBC driver to project build path.
+- Import the project into Eclipse.
+- Add MySQL JDBC Driver to the Build Path.
+- Import schema.sql into MySQL.
+- Configure DBUtil with your MySQL username and password.
+- Start MySQL Server.
+- Run the project on Apache Tomcat.
 
 ## 6. Team Members
-- Shubham Mishra
-- Aditya Sharma
-- Raushan Roy
-- Raushan Tiwari
+- Shubham Mishra - Backend development, DAO layer, Servlets, DB integration
+- Aditya Sharma -	JSP pages, UI design, validation
+- Raushan Roy - Testing, error handling, documentation
+- Raushan Tiwari - Appointment module, dashboard, enhancements
+
+## 7. Conclusion
+- Core functionality
+- Robust backend integration
+- Validation and error handling
+- Clean MVC architecture
+- Testing included
+- Strong documentation
+- Team collaboration
+- Innovation features
 
 ## License
 This project is for educational purposes and open-source. You are free to modify and redistribute it with attribution.
