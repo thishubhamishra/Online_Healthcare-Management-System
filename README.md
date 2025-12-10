@@ -34,8 +34,6 @@ A Java web-based system that allows:
 ## 5. How to Run
 1. Import project into Eclipse as Dynamic Web Project (or similar).
 2. Add MySQL JDBC driver to project build path.
-3. Configure server (Tomcat).
-4. Run on server and open `http://localhost:8080/OnlineHealthcareManagementSystem-Review2`.
 
 ## 6. Team Members
 - Shubham Mishra
