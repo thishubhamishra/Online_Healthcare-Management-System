@@ -1,1 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+label {
+    display: inline-block;
+    width: 120px;
+}
+
+input, select, textarea {
+    margin-bottom: 8px;
+}
+
+.error {
+    color: red;
+}
+
+.success {
+    color: green;
+}
 
