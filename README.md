@@ -41,3 +41,6 @@ A Java web-based system that allows:
 - Raushan Roy
 - Raushan Tiwari
 
+## License
+This project is for educational purposes and open-source. You are free to modify and redistribute it with attribution.
+
