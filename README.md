@@ -39,13 +39,7 @@ A Java web-based system that allows:
 - Start MySQL Server.
 - Run the project on Apache Tomcat.
 
-## 6. Team Members
-- Shubham Mishra - Backend development, DAO layer, Servlets, DB integration
-- Aditya Sharma -	JSP pages, UI design, validation
-- Raushan Roy - Testing, error handling, documentation
-- Raushan Tiwari - Appointment module, dashboard, enhancements
-
-## 7. Conclusion
+## 6. Conclusion
 - Core functionality
 - Robust backend integration
 - Validation and error handling
@@ -54,6 +48,12 @@ A Java web-based system that allows:
 - Strong documentation
 - Team collaboration
 - Innovation features
+
+## 7. Team Members
+- Shubham Mishra - Backend development, DAO layer, Servlets, DB integration
+- Aditya Sharma -	JSP pages, UI design, validation
+- Raushan Roy - Testing, error handling, documentation
+- Raushan Tiwari - Appointment module, dashboard, enhancements
 
 ## License
 This project is for educational purposes and open-source. You are free to modify and redistribute it with attribution.
